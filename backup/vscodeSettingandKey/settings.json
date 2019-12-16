@@ -1,0 +1,159 @@
+{
+    "editor.fontFamily": "'Cascadia Code',mononoki,'Courier New',等线,monospace,黑体,Fira Code Retina",
+    "editor.fontSize": 18,
+    "workbench.activityBar.visible": true,
+    "editor.cursorWidth": 4,
+    "editor.minimap.maxColumn": 60,
+    "npm.enableScriptExplorer": true,
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+    "px-to-rem.px-per-rem": 100,
+    "telemetry.enableCrashReporter": false,
+    "editor.cursorBlinking": "expand",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 18,
+    
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "*.jsp": "jsp",
+        "*.js": "javascript",
+        "*.html": "html",
+        "*.vue": "vue",
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html",
+        "javascript": "javascriptreact",
+        "xml": {
+            "attr_quotes": "single"
+        }
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json",
+                "jsonc"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautifyrc"
+            ]
+        },
+        "css": [
+            "css",
+            "less",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html",
+            "vue"
+        ]
+    },
+    "beautify.config": {
+        "brace_style": "none,preserve-inline",
+        "wrap_attributes": "preserve",
+    },
+    "workbench.colorTheme": "Panda Syntax",
+    "editor.suggestSelection": "first",
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "telemetry.enableTelemetry": false,
+    // "eslint.autoFixOnSave": true,
+    // "eslint.alwaysShowStatus": true,
+    "htmlhint.options": {
+        "tagname-lowercase": true,
+        "attr-lowercase": true,
+        "attr-value-double-quotes": true,
+        "doctype-first": false,
+        "tag-pair": true,
+        "spec-char-escape": true,
+        "id-unique": true,
+        "src-not-empty": true,
+        "attr-no-duplication": true,
+        "title-require": true
+    },
+    "editor.fastScrollSensitivity": 8,
+    "editor.minimap.showSlider": "always",
+    "editor.detectIndentation": false,
+    "html.format.wrapLineLength": 0,
+    "html.format.wrapAttributes": "preserve",
+    "vetur.format.enable": false,
+    "[vue]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "html.format.enable": false,
+    "html.format.preserveNewLines": false,
+    "window.customMenuBarAltFocus": false,
+    "window.menuBarVisibility": "hidden",
+    "window.enableMenuBarMnemonics": false,
+    "editor.fontLigatures": true,
+    "files.autoSaveDelay": 0,
+    "editor.dragAndDrop": false,
+    "editor.renderWhitespace": "selection",
+	"editor.autoIndent": false,
+    "editor.renderIndentGuides": false,
+    "workbench.editor.tabCloseButton": "off",
+    "terminal.integrated.rendererType": "dom",
+    "css.completion.completePropertyWithSemicolon": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "git.enabled": false,
+    
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.activeIconPack": "none",
+    "material-icon-theme.folders.associations": {
+        "store": "vuex-store",
+        "router": "routes",
+        "dist": "delta",
+        "components": "animation",
+        // "views": "constant",
+        "views": "benchmark",
+        "view": "benchmark",
+        // "node_modules":"download",
+        "node_modules":"constant",
+        // "assets":"container",
+        "assets":"content",
+        "public":"global",
+        "serivce":"server",
+        "axios":"cluster",
+        "filters":"aurelia"
+        // "public":"hook",
+        // "src": "root"
+        // "sample": "dist"
+    },
+    "material-icon-theme.files.associations": {
+        // "index.js": "scheme",
+        // "index.js": "restql",
+        "main.js": "scheme",
+        "index.js": "haskell",
+        "index.html": "mjml",
+    // "fileName.ts": "angular"
+    },
+    "material-icon-theme.languages.associations": {
+        // "javscript": "iconName",
+        // "json": "typescript"
+    },
+    "window.zoomLevel": 0,
+    "markdown.preview.fontFamily": "'Cascadia Code',-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif",
+    "editor.minimap.enabled": false,
+    "bookmarks.backgroundLineColor": "rgba(21, 126, 251, 0.3)",
+    "turboConsoleLog.logMessagePrefix": "***",
+    "turboConsoleLog.addSemicolonInTheEnd": true,
+    "turboConsoleLog.quote": "'",
+    "task.slowProviderWarning": [
+        "npm"
+    ],
+    "git.autorefresh": false,
+}
